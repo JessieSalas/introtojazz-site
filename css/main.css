@@ -149,7 +149,7 @@ main {
 	-moz-transition: none;
 	transition: none;	
 }
-#slide-3 .bcg {background-image:url('../img/clouds.jpg');}
+#slide-3 .bcg {background-image:url('http://jessiesalas.com/introtojazz-site/img/clouds.jpg');}
 #slide-3 h2  {color: #ffffff;}
 #slide-3 p {color: white; font-family: 'Raleway';}
 
